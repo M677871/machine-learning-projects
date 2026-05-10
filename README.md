@@ -62,11 +62,21 @@ These introductory modules map continuous variables and tackle statistical depen
 * **Sampling:** Imbalanced-Learn (SMOTE)
 * **Visualization:** Matplotlib, Seaborn
 
-## 🚀 How to Run Locally
+## 🚀 How to Run Locally or on Google Colab
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/M677871/machine-learning-projects.git
    ```
-2. **Open the Notebooks:** Start your environment (Jupyter Lab/VS Code). Datasets are bundled locally in each nested folder; no external downloads are needed.
-3. **Run sequentially:** The notebooks execute top-to-bottom.
+2. **Open the notebooks locally:**
+Start your environment using Jupyter Lab, Jupyter Notebook, or VS Code. The datasets are bundled locally inside each project folder, so no external downloads are needed.
+3. **Or open the notebooks in Google Colab:**
+Upload the notebook and its related dataset folder to Google Drive, then open the notebook with Google Colab. Make sure the dataset stays in the same relative folder path used by the notebook.
+4. **Run sequentially:**
+Run the notebooks from top to bottom so the preprocessing, training, tuning, evaluation, and visualizations execute in the correct order.
+
+## 👥 Contributors
+
+This project was developed as a team effort by **Miled issa, Jad Maalouf, and Edmond Ibllawi**.
+
+The team worked on the full machine learning pipeline, including data exploration, preprocessing, model development, hyperparameter tuning, PCA analysis, model evaluation, visualization, and final reporting.
